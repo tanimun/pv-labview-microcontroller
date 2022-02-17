@@ -1,1 +1,2 @@
 https://create.arduino.cc/projecthub/Aboubakr_Elhammoumi/solar-panel-data-monitoring-using-arduino-and-labview-8b4c8f
+https://makersportal.com/blog/solar-panel-characterization-and-experiments-with-arduino
